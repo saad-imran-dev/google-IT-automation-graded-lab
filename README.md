@@ -1,2 +1,1 @@
-# google-IT-automation-graded-lab
-This is a repo for introduction to git graded lab.
+I am editing the README file. Adding some more details about the project description.
